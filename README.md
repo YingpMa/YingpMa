@@ -19,7 +19,6 @@
 - 🔗 Let's connect on **[LinkedIn](https://www.linkedin.com/in/yingping-ma/)**  
 
 <br clear="right">
-<div align="center" style="width:80%; border-top:1px solid #eaeaea; margin:20px 0;"></div>
 
 🛠️ **Tech Stack**
 ---

@@ -1,50 +1,42 @@
-### Hi 👋, I'm Yingping Ma  
-A passionate full stack developer who loves building user-friendly and efficient applications.  
 
----
 
-### 🚀 Skills  
+<div style="text-align:center;">
+  <img src="https://media.giphy.com/media/L0O7fqYSk4z1e/giphy.gif" align="center" width="200">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
-</p>
+  <h1 align="center">Hi 👋, I'm Yingping Ma</h1>
+  <h3 align="center">A full-stack developer who loves turning ideas into reality</h3>
+  <br>
 
----
+  <img align="right" src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="400">
 
-### 📫 Contact Me  
-📧 Email: [yingping.ma2000@gmail.com](mailto:yingping.ma2000@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/yingping-ma](https://www.linkedin.com/in/yingping-ma/)  
+  &emsp;
 
----
+  - 🔭 I’m currently working on **something cool and secret** 🤫  
+  - 🌱 I’m currently learning **microservices and cloud-native architectures**  
+  - 📫 How to reach me: **yingping.ma2000@gmail.com**  
+  - 📄 Check out my journey: [LinkedIn](https://www.linkedin.com/in/yingping-ma/)  
 
-### 📊 GitHub Stats  
+  &emsp;
+  <br>
+  <br>
+  <br>
+  <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YingpMa&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YingpMa&layout=compact&theme=radical" height="165" />
-</p>
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left">
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
+  </p>
+</div>
 
----
 
-✨ *Let's connect and build something awesome together!* 🚀
 
 

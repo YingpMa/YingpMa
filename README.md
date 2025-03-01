@@ -19,7 +19,7 @@
 - 🔗 Let's connect on **[LinkedIn](https://www.linkedin.com/in/yingping-ma/)**  
 
 <br clear="right">
----
+
 🛠️ **Tech Stack**
 <br>  
 ---

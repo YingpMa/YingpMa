@@ -21,7 +21,6 @@
 <br clear="right">
 
 🛠️ **Tech Stack**
-<br>  
 ---
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>

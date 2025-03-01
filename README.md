@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/YingpMa/YingpMa/main/angry-2498_256.gif" width="200">
   
   # Hi 👋, I'm Yingping Ma
-  ### Full-stack developer turning ideas into reality
+  🌟 **Full-Stack Developer | Turning Ideas into Reality**
 </div>
 
 <img align="right" src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif?cid=790b7611exmb42eg6uh5vj5dy1mwz7t1d058vjo1g4ceun8e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="350">

@@ -17,7 +17,7 @@
 📬 **How to reach me:**  
 - 💌 Drop me an email: [yingping.ma2000@gmail.com](mailto:yingping.ma2000@gmail.com)  
 - 🔗 Let's connect on **[LinkedIn](https://www.linkedin.com/in/yingping-ma/)**  
-
+---
 <br clear="right">
 
 🛠️ **Tech Stack**

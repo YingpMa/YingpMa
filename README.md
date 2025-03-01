@@ -5,7 +5,7 @@
   ### Full-stack developer turning ideas into reality
 </div>
 
-<img align="right" src="https://raw.githubusercontent.com/YingpMa/YingpMa/main/Animation.gif" width="350">
+<img align="right" src="[https://raw.githubusercontent.com/YingpMa/YingpMa/main/Animation.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczE4c3h6NGpyMmZqM2FrMnduM3F1d2VyMGp2aHRvYXM5ODN6cXlidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif)" width="350">
 
 - 🔭 Working on **something cool and secret** 🤫
 - 🌱 Learning **microservices & cloud-native architectures**

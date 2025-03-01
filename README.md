@@ -7,12 +7,6 @@
 
 <img align="right" src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif?cid=790b7611exmb42eg6uh5vj5dy1mwz7t1d058vjo1g4ceun8e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="350">
 
-- 🔭 Working on **something cool and secret** 🤫
-- 🌱 Learning **microservices & cloud-native architectures**
-- 📫 Reach me: **yingping.ma2000@gmail.com**
-- 📄 My journey: [LinkedIn](https://www.linkedin.com/in/yingping-ma/)
-🌟 **Full-Stack Developer | Turning Ideas into Reality**
-
 🚀 Passionate about building user-friendly applications & exploring new technologies.  
 
 ✨ **What I'm up to:**
